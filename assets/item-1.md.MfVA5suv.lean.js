@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.CI8or701.js";const f=JSON.parse('{"title":"item1","description":"","frontmatter":{},"headers":[],"relativePath":"item-1.md","filePath":"item-1.md"}'),i={name:"item-1.md"},o=r("",4),_=[o];function n(s,c,h,d,l,m){return t(),e("div",null,_)}const p=a(i,[["render",n]]);export{f as __pageData,p as default};
